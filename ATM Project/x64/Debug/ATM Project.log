@@ -1,0 +1,4 @@
+﻿  ATM Project.cpp
+D:\Course8_projects\ATM Project\ATM Project\ATM Project\ATM Project.cpp(44,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Course8_projects\ATM Project\ATM Project\ATM Project\ATM Project.cpp(315,1): warning C4715: 'UpdateBalanceClientByAccountNumber': not all control paths return a value
+  ATM Project.vcxproj -> D:\Course8_projects\ATM Project\ATM Project\x64\Debug\ATM Project.exe
